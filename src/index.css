@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: cursive;
+  
+  background: #c6bdfc;
+}
+
+h1 {
+  color: rgb(118, 36, 194);
+  /* text-shadow: 0.2; */
+}
+code {
+  font-family:  cursive;
+}
